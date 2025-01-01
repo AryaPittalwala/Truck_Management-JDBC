@@ -1,1 +1,3 @@
 # Truck_Management-JDBC
+
+basic static truck management system.......
